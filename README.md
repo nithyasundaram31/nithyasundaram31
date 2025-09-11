@@ -1,5 +1,9 @@
+<div align="center">
+
 # Hi 👋, I'm Nithya  
 ### A passionate Full Stack Developer from India 🚀  
+
+</div>
 
 🌱 I’m currently learning **MERN Stack**  
 📫 How to reach me: **nithyasundaram31@gmail.com**
@@ -7,7 +11,7 @@
 ---
 
 ### 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+<a href="https://www.linkedin.com/in/nithya-s-49899b2a1/" target="_blank">
   <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
