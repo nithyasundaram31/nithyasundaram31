@@ -1,11 +1,11 @@
-# Hi 👋, I'm Nithya  
-A passionate Full Stack Developer from India 🚀  
+                            # Hi 👋, I'm Nithya  
+                      # A passionate Full Stack Developer from India 🚀  
 
 - 🌱 I’m currently learning **MERN Stack**  
 - 📫 How to reach me: **nithyasundaram31@gmail.com**  
 
 ### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithya-s-49899b2a1)  
 
 ---
 
@@ -23,4 +23,3 @@ A passionate Full Stack Developer from India 🚀
 
 ---
 
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithyasundaram31&show_icons=true&theme=tokyonight)
