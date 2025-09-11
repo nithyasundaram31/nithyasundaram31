@@ -1,13 +1,14 @@
 <div align="center">
 
 # Hi 👋, I'm Nithya  
-### A passionate Full Stack Developer from India 🚀  
+### A passionate Full Stack Developer from India   
 
 </div>
 
 
-🌱 I’m currently learning **MERN Stack**  
-📫 How to reach me: **nithyasundaram31@gmail.com**
+- 🌱 I’m currently learning **MERN Stack** 
+
+- 📫 How to reach me: **nithyasundaram31@gmail.com**
 
 ---
 
