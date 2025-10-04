@@ -6,7 +6,15 @@
 </div>
 
 
-- 🌱 I’m currently learning **MERN Stack** 
+- 💻 MERN Stack: Proficient in React, Express.js, React.js,  Node.js, MongoDB
+
+- 🎨 Frontend: Skilled in HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, Redux Toolkit, and Responsive Design
+
+- ⚙️ Backend: Experience with Node.js, Express.js, RESTful APIs, and MongoDB
+
+- 📦 State Management: Redux Toolkit for scalable and maintainable applications
+
+- ☁️ Deployment: Hands-on with Netlify and Render
 
 - 📫 How to reach me: **nithyasundaram31@gmail.com**
 
